@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>SK 6_2 Dewi Citra Kurnia</title>
+	<title>SK 6_2 zamroni</title>
 </head>
 <body>
 	<h2>LINGKARAN</h2>
